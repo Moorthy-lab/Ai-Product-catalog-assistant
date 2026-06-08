@@ -1,0 +1,34 @@
+{
+  "plans": [
+    {
+      "name": "Starter",
+      "price": "$49/mo",
+      "features": ["5 users", "API access", "email support"],
+      "best_for": "Small teams validating their first automated sales workflows."
+    },
+    {
+      "name": "Growth",
+      "price": "$199/mo",
+      "features": ["25 users", "webhooks", "priority support"],
+      "best_for": "Growing SaaS teams that need integrations and faster support."
+    },
+    {
+      "name": "Enterprise",
+      "price": "$499/mo",
+      "features": ["unlimited users", "SSO", "audit logs", "SLA"],
+      "best_for": "Larger organizations with security, compliance, and reliability requirements."
+    }
+  ],
+  "add_ons": [
+    {
+      "name": "Advanced Analytics",
+      "price": "$99/mo",
+      "features": ["custom dashboards", "cohort reporting", "CSV export"]
+    },
+    {
+      "name": "Implementation Support",
+      "price": "$1500 one-time",
+      "features": ["onboarding workshop", "catalog setup", "team training"]
+    }
+  ]
+}
